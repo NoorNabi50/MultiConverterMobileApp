@@ -2,9 +2,9 @@
 
 It helps users convert a single weight unit into other units on a single platform.
 The following weight unit conversions are available to use.
-Pounds
-Grams
-Kilograms
+Pounds,
+Grams,
+Kilograms and
 Ounces
 # The app is Developed using React Native 
 
